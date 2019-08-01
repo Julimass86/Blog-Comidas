@@ -1,0 +1,38 @@
+body {
+  background-image:url(../img/comedor.jpg);
+  
+}
+.general{
+  background-color: rgb(100, 149, 237, 0.5);
+
+}
+.columna1{
+  color: beige;
+  max-height: 10em;
+  border-right: solid 1px rgba(187, 187, 187, 0.842);
+}
+.columna2 {
+  border-right: solid 1px rgba(187, 187, 187, 0.842);
+  padding: 0em 2em 0em 2em;
+}
+
+
+h1 {
+  margin: 1em;
+}
+h3 {
+  margin-top: 1em;
+}
+h5 {
+  margin: 1em 1em;
+}
+.column {
+
+}
+.articulo1 {
+  padding: 0em 3.5em 0em 2em;
+  
+}
+.articulo2 {
+  margin-top: 1em;
+}
